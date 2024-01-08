@@ -11,7 +11,7 @@ mensagem explicativa, conforme exemplos.
 |----------|--------
 | 10  20   |Soma=30 |
 | 40  60   |Soma=100|
-|-------------------|
+
 
 **Exercicio 2**
 
