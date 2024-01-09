@@ -23,9 +23,9 @@ casas decimais conforme exemplos.
 
 | **Entrada**  | **Saida**    | 
 |----------|----------
-| 2.00     | A=12.5664 |
-| 100.64   | A=31819.3103|
-| 150.00   | A=70685.7750 | 
+| 2.00     | Aarea=12.5664 |
+| 100.64   | Area=31819.3103|
+| 150.00   | Area=70685.7750 | 
 
 # **Exercicio 3**
   * Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto
