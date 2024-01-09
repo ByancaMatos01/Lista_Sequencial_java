@@ -46,12 +46,10 @@ decimais.
 
 ## Tabela de Dados
 
-| **Entrada**  | **Saida**    | 
-|----------|------------------
-| 25 100 5.50  | Number= 25 
-                 Salary= U$ 550.00|
-| 1 200 20.50   |number= 1  
-                 Salary= U$ 4100.00|
+| **Entrada**  | **Saida**                   | 
+|--------------|---------------
+| 25 100 5.50  | Number= 25 Salary= U$ 550.00|
+| 1 200 20.50  |number= 1  Salary= U$ 4100.00|
            
 # **Exercicio 5**
   * Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o 
@@ -61,10 +59,8 @@ código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 
 
 | **Entrada**  | **Saida**    | 
 |----------|------------------
-| 12 1 5.30 
-  16  2 5.10|  Valor R$ 15.50 |
-|13 2 15.30 
-161 4 5.20 | VALOR R$ R$ 51.40 |
+| 12 1 5.30  16  2 5.10|  Valor R$ 15.50 |
+|13 2 15.30 16 1 4 5.20 | VALOR R$ R$ 51.40 |
 
 # **Exercicio 6 **
   * Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por 
@@ -75,16 +71,8 @@ decimais.
 
 | **Entrada**  | **Saida**    | 
 |----------|------------------
-|3.0 4.0 5.2  | TRIANGULO: 7.800 
-                CIRCULO: 84.949 
-                TRAPEZIO: 18.200 
-                QUADRADO: 16.000 
-                RETANGULO: 12.000|
-|12.7 10.4 15.2 |TRIANGULO: 96.520 
-                 CIRCULO: 725.833 
-                 TRAPEZIO: 175.560 
-                  QUADRADO: 108.160 
-                  RETANGULO: 132.080|
+|3.0 4.0 5.2    | TRIANGULO: 7.800 CIRCULO: 84.949 TRAPEZIO: 18.200  QUADRADO: 16.000  RETANGULO: 12.000|
+|12.7 10.4 15.2 |TRIANGULO: 96.520  CIRCULO: 725.833 TRAPEZIO: 175.560 QUADRADO: 108.160 RETANGULO: 132.080|
 
 
 
