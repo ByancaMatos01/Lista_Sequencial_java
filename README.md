@@ -2,7 +2,7 @@
 # Descrição
 Exercícios sobre Estrutura Sequencial (entrada, processamento, saída)
 # Exercicios Sequências 
-# **Exercicio 1** [Exercicio1](https://github.com)
+# **Exercicio 1**(https://github.com)
 
 * Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
 mensagem explicativa, conforme exemplos.
