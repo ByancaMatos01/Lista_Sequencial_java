@@ -40,7 +40,7 @@ de A e B pelo produto de C e D segundo a fórmula:
 | 5 6 7 8   |DIFERENCA = -26 |
 | 5 6-7 8   |DIFERENCA = 86  |
 
-# *[Exercício 4](https://github.com/ByancaMatos01/Lista_Sequencial_java/blob/main/sequencial/exercicio4.java)**
+# *[Exercício 4](https://github.com/ByancaMatos01/Lista_Sequencial_java/blob/main/sequencial/exercicio4.java)*
   * Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por 
 hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas 
 decimais. 
