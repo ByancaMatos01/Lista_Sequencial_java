@@ -2,7 +2,7 @@
 # Descrição
 Exercícios sobre Estrutura Sequencial (entrada, processamento, saída)
 # Exercicios Sequências 
-# [Exercício 1 ](https://github.com/ByancaMatos01/Lista_Sequencial_java/blob/main/sequencial/exercicio1.java)
+# *[Exercício 1 ](https://github.com/ByancaMatos01/Lista_Sequencial_java/blob/main/sequencial/exercicio1.java)**
 
 * Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
 mensagem explicativa, conforme exemplos.
@@ -14,7 +14,7 @@ mensagem explicativa, conforme exemplos.
 | 40  60   |Soma=100|
 
 
-# **Exercicio 2**
+# *[Exercício 2 ](https://github.com/ByancaMatos01/Lista_Sequencial_java/blob/main/sequencial/exercicio2.java)**
   * Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro
 casas decimais conforme exemplos.
   * Fórmula da área: area = π . raio2
@@ -28,7 +28,7 @@ casas decimais conforme exemplos.
 | 100.64   | Area=31819.3103|
 | 150.00   | Area=70685.7750 | 
 
-# **Exercicio 3**
+# *[Exercício 3](https://github.com/ByancaMatos01/Lista_Sequencial_java/blob/main/sequencial/exercicio3.java)**
   * Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto
 de A e B pelo produto de C e D segundo a fórmula:
   * DIFERENCA = (A * B - C * D).
@@ -40,7 +40,7 @@ de A e B pelo produto de C e D segundo a fórmula:
 | 5 6 7 8   |DIFERENCA = -26 |
 | 5 6-7 8   |DIFERENCA = 86  |
 
-# **Exercicio 4 **
+# *[Exercício 4](https://github.com/ByancaMatos01/Lista_Sequencial_java/blob/main/sequencial/exercicio4.java)**
   * Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por 
 hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas 
 decimais. 
@@ -52,7 +52,7 @@ decimais.
 | 25 100 5.50  | Number= 25 Salary= U$ 550.00|
 | 1 200 20.50  |number= 1  Salary= U$ 4100.00|
            
-# **Exercicio 5**
+# *[Exercício 5](https://github.com/ByancaMatos01/Lista_Sequencial_java/blob/main/sequencial/exercicio5.java)**
   * Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o 
 código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago. 
 
